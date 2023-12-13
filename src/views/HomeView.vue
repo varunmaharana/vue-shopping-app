@@ -1,11 +1,207 @@
 <script setup>
+import ContactUsForm from '../components/ContactUsForm.vue';
+import { RouterLink } from 'vue-router';
+import hero_section_banner from "../assets/hero-section-banner.jpg";
+import dp_img from "../assets/dp.jpg"
 
 </script>
 
 <template>
- Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus doloribus ut optio aut animi consectetur eius fuga, totam provident modi blanditiis aperiam harum eligendi soluta quos, quod ratione deserunt eaque quam facere officia nesciunt similique cum sit. Magni, porro libero reiciendis nulla commodi cupiditate magnam culpa? Deserunt eaque autem quasi architecto magni id nemo, reprehenderit quidem blanditiis illo quos dolorum placeat asperiores at temporibus accusantium ab explicabo dolore corporis aut quis excepturi vitae voluptate! Quia cum veritatis ratione dolorem architecto sint accusamus veniam eius obcaecati molestiae, expedita at alias consequuntur nulla nam repudiandae animi libero eveniet dolore necessitatibus quasi molestias? Pariatur nobis, non quam voluptate aliquam necessitatibus sunt sint laboriosam tempore. Non sunt reprehenderit pariatur incidunt quas quos voluptatem fugit architecto enim eligendi, consequuntur vitae assumenda at vero itaque error totam nemo adipisci laboriosam sint saepe quis officia? Ex quaerat perferendis rerum asperiores nesciunt voluptates adipisci veniam numquam impedit obcaecati magni repudiandae voluptatem excepturi illum, eaque reprehenderit, ducimus blanditiis id in soluta harum ipsum! Sunt, adipisci exercitationem enim quas, libero unde molestias ea magni explicabo minus ullam? Laboriosam, sit modi aliquam, necessitatibus fugiat doloremque impedit recusandae nulla, nobis velit suscipit. Pariatur numquam ullam nulla molestias tenetur provident commodi. Quos nesciunt recusandae nisi dolorem nulla optio perspiciatis perferendis iure ratione eum assumenda odit ipsam, animi minus accusamus commodi atque velit consequuntur nobis illo fuga laboriosam! Ipsum eveniet accusamus sapiente, blanditiis tempora et nulla sit est iusto, odio sunt natus dolor. Ut dolorum illum, autem placeat debitis exercitationem quae modi molestias recusandae nemo a similique laudantium accusamus ex fugiat ipsa totam voluptas dolor reiciendis! Ad aliquid sit distinctio, molestias corporis eveniet beatae! Expedita, impedit autem. Voluptas ex qui magni sunt ut, eveniet iste aperiam doloremque fuga unde labore dolore quae doloribus quos mollitia atque incidunt voluptatum necessitatibus aspernatur eos. Veritatis labore numquam placeat, libero voluptatibus iusto voluptas nam nostrum amet quasi, veniam est ullam obcaecati ipsum iure saepe id asperiores tempore quos natus beatae facilis debitis. Obcaecati animi quis aliquam omnis dolore odit iusto libero atque. Impedit id dolorem quae? Distinctio corrupti neque ab at, quos hic cupiditate voluptas sequi amet qui tenetur ducimus, architecto rerum corporis aperiam quibusdam quisquam accusantium ex illum. Possimus similique voluptatum aperiam quia iure est magnam sunt, illo asperiores, ipsam voluptate maiores nesciunt, veritatis quas voluptatibus nobis. Adipisci quia culpa iusto voluptatibus asperiores? Nesciunt, temporibus qui. Illum, incidunt rem, omnis quasi debitis libero molestias provident fugit sint commodi aut exercitationem distinctio. Eum aliquid, sit adipisci quasi minus odio quo corrupti illo saepe! Mollitia dolor quae aliquid doloremque, quod veritatis, odio explicabo molestias nam atque hic cupiditate maiores omnis amet. Commodi facere provident porro rerum recusandae velit minus, nemo expedita voluptates, doloremque doloribus dolores, non deserunt. Pariatur velit atque magni quisquam quasi, rerum dolorem fugiat quidem nemo cupiditate ducimus vel? Distinctio laborum dicta ex earum adipisci sit expedita, similique officia, et natus labore deserunt minus asperiores id quisquam dolore veniam porro? Temporibus nesciunt suscipit ipsa iusto dolores ut cupiditate dolorum nam in architecto laborum eaque, quidem blanditiis maxime labore numquam nihil itaque esse culpa! Amet minus, quod modi praesentium recusandae accusamus, repudiandae, labore provident quisquam animi dolorum. Id dolores tenetur natus eligendi. Ducimus, assumenda est voluptatum obcaecati labore excepturi, atque consequatur perferendis exercitationem quibusdam optio! Fugit dolorum nemo quos facere eaque amet ducimus rem nesciunt ratione, dolore accusantium omnis aspernatur magni voluptatibus quasi animi quia placeat officia sed ex maiores eum laudantium repellendus facilis! Voluptates tenetur quis doloribus asperiores, odio corporis quas debitis porro molestiae sequi eligendi atque! Saepe, eius a ipsa error dolorem iure quidem molestias unde ipsum quas necessitatibus voluptatum rerum! Consectetur magni illo est eos repellat eligendi quos facilis repellendus fugit, aliquid enim laboriosam neque. Debitis quas numquam modi iusto corporis ipsum quo veritatis ducimus in iste recusandae molestias laudantium sed error omnis, sapiente aliquam porro suscipit fuga veniam consectetur, aperiam voluptate cum. Corrupti sunt consectetur distinctio, explicabo minima incidunt numquam amet placeat iusto, ipsam obcaecati dolore odit tenetur vel perferendis similique cum libero consequatur quae sapiente? In quia corrupti beatae accusantium maiores veniam. Tempore voluptates rem eos aliquam officia deserunt facere, adipisci maxime laborum, excepturi ullam. Sit est officiis blanditiis harum quos dolorum quo ipsum adipisci eligendi nesciunt sequi enim officia sed exercitationem deserunt aspernatur saepe facere reprehenderit ad quidem voluptatibus excepturi, minima tempora? Quasi adipisci dolorem explicabo saepe enim voluptatem maiores ducimus corporis vel vitae ratione culpa eos est deleniti ab quae vero voluptas architecto minus aliquid, quaerat quam unde! Nobis eligendi maxime, incidunt perferendis, suscipit repellendus placeat, ratione et cum eveniet ab debitis error assumenda corporis accusamus saepe laudantium earum? Praesentium consectetur accusantium ab magnam eligendi consequatur in ipsam natus temporibus doloribus vitae amet alias facilis, eveniet, fuga, fugit harum unde corrupti mollitia voluptatum. Ea architecto velit illum expedita non! Culpa hic temporibus officia explicabo sunt ipsa labore optio. Laborum, magni mollitia consectetur ratione magnam hic inventore. Nemo quis beatae adipisci quod earum iusto deleniti eveniet, molestias culpa? Inventore laboriosam nulla ipsum obcaecati atque. Facilis, dignissimos! Suscipit blanditiis velit numquam, quisquam nobis, nam cupiditate dolorum odio adipisci, dolorem totam nostrum. Facere culpa provident cupiditate aspernatur doloremque. Illum reiciendis necessitatibus assumenda aut eveniet quaerat quae atque enim quis labore natus officiis molestiae sequi eaque laudantium laborum, mollitia vitae porro. Numquam in facere architecto? Recusandae, vitae pariatur! Dolorem tempore eius voluptate provident excepturi debitis voluptatem. Eveniet blanditiis recusandae, sed fugiat enim maiores esse quisquam, dignissimos atque facere ad! Est modi sequi, vero eaque ullam doloremque reprehenderit deserunt, culpa asperiores ipsum molestiae quaerat corporis, provident eum consequuntur. Aliquid nam iusto eum voluptatum non corporis aut iure corrupti, a eaque, illo placeat dolore odit quos exercitationem magnam blanditiis accusamus. Enim eum quasi sed cumque quae vel recusandae quia odio magnam placeat, quod pariatur adipisci sit veritatis similique exercitationem deleniti sunt ipsam distinctio tempora debitis dolorum consequuntur totam. Officia totam provident voluptas nesciunt eius laboriosam earum asperiores modi ullam quae vero quisquam quibusdam consectetur impedit, esse, laborum placeat exercitationem itaque. Omnis sint necessitatibus maiores dicta facilis quo vitae officiis quis. Maxime saepe nisi officia. Suscipit, voluptatum minima.
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <section class="content">
+      <h1>ShopKaro</h1>
+      <p>Welcome to the best "everything available, nothing buyable" online marketplace!</p>
+      <RouterLink to="/products">
+        <button>Browse Products <i class="fa-solid fa-arrow-right"></i></button>
+      </RouterLink>
+    </section>
+
+    <section class="backdrop"></section>
+  </section>
+
+  <!-- ABOUT SECTION -->
+  <section class="about">
+    <section class="content">
+      <h2>About Us</h2>
+      <p>We are a one man team, who are motivated enough to bring you the best products that you won't be able to buy!</p>
+      <img :src="dp_img" alt="">
+      <p>Varun Maharana</p>
+    </section>
+  </section>
+
+  <!-- CONTACT SECTION -->
+  <section class="contact">
+    <section class="content">
+      <h2>Contact Us</h2>
+      <p>Feel free to contact us regarding any queries or problems you may face!</p>
+    </section>
+    <ContactUsForm />
+  </section>
 </template>
 
 <style scoped>
+.hero {
+  position: relative;
+  min-height: 90vh;
+  background-image: url(../assets/hero-section-banner.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
+.hero .backdrop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  opacity: 0.5;
+}
+
+.hero .content {
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  color: white;
+  padding: 100px 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.hero .content h1 {
+  font-size: 4rem;
+}
+
+.hero .content p {
+  font-size: 1.3rem;
+}
+
+.hero .content button {
+  font-size: 1.3rem;
+  background-color: var(--primary-color);
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 30px;
+
+}
+
+.hero .content button i {
+  margin-left: 10px;
+  transition: 0.3s;
+}
+
+.hero .content button:hover {
+  background-color: #1f77c7;
+}
+
+.hero .content button:hover i {
+  transform: translateX(10px);
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  ;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  padding: 50px;
+}
+
+.about .content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+}
+
+.about .content img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 30px;
+}
+
+.about .content h2 {
+  display: inline-block;
+  /* padding-bottom: 2px; */
+
+  border-bottom: 3px solid var(--highlight-color);
+}
+
+
+.contact {
+  display: flex;
+  justify-content: center;
+  ;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0 50px 50px;
+}
+
+.contact .content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+}
+
+.contact .content h2 {
+  display: inline-block;
+  /* padding-bottom: 2px; */
+
+  border-bottom: 3px solid var(--highlight-color);
+}
+
+@media screen and (max-width: 768px) {
+  .hero .content {
+    padding: 10px 20px;
+  }
+
+  .hero .content h1 {
+    font-size: 3rem;
+  }
+
+  .hero .content p {
+    font-size: 0.9rem;
+  }
+
+  .hero .content button {
+    font-size: 1.3rem;
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .about {
+    padding: 50px 25px;
+  }
+
+  .contact {
+    padding: 0 25px 50px;
+  }
+}
 </style>

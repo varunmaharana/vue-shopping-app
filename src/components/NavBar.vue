@@ -4,7 +4,7 @@ import { ref } from 'vue';
 
 let toggleMenu = ref(false);
 function setToggleMenu(value) {
-  toggleMenu.value = value;
+    toggleMenu.value = value;
 }
 </script>
 
@@ -32,7 +32,7 @@ function setToggleMenu(value) {
 nav {
     position: sticky;
     top: 0;
-    z-index: 1;
+    z-index: 99;
     background-color: var(--primary-color);
     color: var(--text-color);
     padding: 0 100px;
@@ -43,7 +43,7 @@ nav {
 
 nav .navbar-main {
     background-color: var(--primary-color);
-    
+
     position: relative;
     z-index: 10;
     display: flex;
@@ -56,7 +56,7 @@ nav .navbar-main .logo {
     background-color: var(--highlight-color);
     padding: 2px 5px;
     border-radius: 5px;
-    
+
 }
 
 nav .navbar-main .logo h1 {
@@ -110,9 +110,11 @@ nav .menu-icon {
     nav {
         flex-direction: column;
     }
+
     nav .navbar-main {
         width: 100%;
     }
+
     nav .navlinks {
         /* transform: translateY(-100%); */
         /* display: none; */
@@ -147,5 +149,4 @@ nav .menu-icon {
         gap: 15px;
     }
 }
-
 </style>
