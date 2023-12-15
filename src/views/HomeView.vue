@@ -115,7 +115,6 @@ import dp_img from "../assets/dp.jpg"
 .about {
   display: flex;
   justify-content: center;
-  ;
   align-items: center;
   flex-direction: column;
   gap: 20px;
@@ -149,7 +148,6 @@ import dp_img from "../assets/dp.jpg"
 .contact {
   display: flex;
   justify-content: center;
-  ;
   align-items: center;
   flex-direction: column;
   gap: 20px;

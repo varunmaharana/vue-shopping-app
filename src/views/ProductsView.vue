@@ -42,9 +42,11 @@ watchEffect(async () => {
 
 <style scoped>
 h1 {
+    display: inline-block;
     margin: 20px 100px;
     font-size: 1.5rem;
-    text-align: center;
+    /* text-align: center; */
+    border-bottom: 3px solid var(--highlight-color);
 }
 
 #products {
@@ -58,7 +60,7 @@ h1 {
 
 @media screen and (max-width: 600px) {
     h1 {
-        margin: 20px;
+        margin: 20px 20px 0;
         font-size: 1.2rem;
     }
 
